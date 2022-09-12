@@ -1,2 +1,3 @@
-# zible_keys
-Keys by ZIBLE
+# ZIBLE Keys
+
+Keys used by ZIBLE to sign data
